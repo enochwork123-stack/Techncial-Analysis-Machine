@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:14:53.059929+00:00",
+  "end_date": null,
+  "file_name": "AMZN.csv",
+  "file_size_bytes": 399041,
+  "quality_issue_count": 0,
+  "rows": 4136,
+  "sha256": "27e5a1922f36bdf3151d3692712ee06dcb51d1357c5457693b19dbe7740799f2",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "AMZN"
+}

@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:14:51.722686+00:00",
+  "end_date": null,
+  "file_name": "MSFT.csv",
+  "file_size_bytes": 407500,
+  "quality_issue_count": 1,
+  "rows": 4136,
+  "sha256": "14081b125a24f19004fb3ad8e8a7838670e4ff3c63f142baf88e38a530755eef",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "MSFT"
+}

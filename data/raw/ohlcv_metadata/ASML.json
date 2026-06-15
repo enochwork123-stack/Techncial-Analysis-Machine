@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:14:59.774298+00:00",
+  "end_date": null,
+  "file_name": "ASML.csv",
+  "file_size_bytes": 397260,
+  "quality_issue_count": 0,
+  "rows": 4136,
+  "sha256": "1a80a59cf41ccdee78af20f4ff33974e40bcd2593dff43b1173e84b789e5ee33",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "ASML"
+}

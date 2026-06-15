@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:11.848611+00:00",
+  "end_date": null,
+  "file_name": "WMT.csv",
+  "file_size_bytes": 404716,
+  "quality_issue_count": 1,
+  "rows": 4136,
+  "sha256": "185153066b1dbdddbdc479bd8e5d47d432b5ad45065b5072271c528f0eb778ab",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "WMT"
+}

@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:14.505840+00:00",
+  "end_date": null,
+  "file_name": "QQQ.csv",
+  "file_size_bytes": 401709,
+  "quality_issue_count": 0,
+  "rows": 4136,
+  "sha256": "e6c17b414440c82d71c32589224f7fd89d4e18ed0a0f85152bf1066db6e1d926",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "QQQ"
+}

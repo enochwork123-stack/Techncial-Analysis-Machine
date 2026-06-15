@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:07.428306+00:00",
+  "end_date": null,
+  "file_name": "ARM.csv",
+  "file_size_bytes": 62568,
+  "quality_issue_count": 1,
+  "rows": 689,
+  "sha256": "795e2f2b7eb64155e43b869ecc72985618a7e08a119e5933bc271d7b21c073aa",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "ARM"
+}

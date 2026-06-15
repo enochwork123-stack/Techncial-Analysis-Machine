@@ -1,0 +1,11 @@
+group,strategy,symbols,memo
+consumer_growth,ema_cross,NFLX,Moving-average timing works best when regime shifts are broad and sustained.
+defensive_compounder,supertrend,COST,ATR trend following can stay with persistent directional moves while adapting exits to volatility.
+defensive_compounder,ema_cross,WMT,Moving-average timing works best when regime shifts are broad and sustained.
+high_beta_growth,macd_momentum,"ARM, TSLA",MACD favors intermediate acceleration after basing or cyclical turns.
+mature_tech,ema_cross,CSCO,Moving-average timing works best when regime shifts are broad and sustained.
+mega_cap_platform,ema_cross,"AMZN, GOOG, GOOGL, META, MSFT",Moving-average timing works best when regime shifts are broad and sustained.
+mega_cap_platform,supertrend,AAPL,ATR trend following can stay with persistent directional moves while adapting exits to volatility.
+semiconductor_ai,ema_cross,"AMAT, AMD, ASML, AVGO, LRCX, MU, NVDA",Moving-average timing works best when regime shifts are broad and sustained.
+semiconductor_ai,macd_momentum,INTC,MACD favors intermediate acceleration after basing or cyclical turns.
+unclassified,supertrend,QQQ,ATR trend following can stay with persistent directional moves while adapting exits to volatility.

@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:08.774054+00:00",
+  "end_date": null,
+  "file_name": "NFLX.csv",
+  "file_size_bytes": 404693,
+  "quality_issue_count": 2,
+  "rows": 4136,
+  "sha256": "18b563022da69d7458c4c0a6b620aa0947027b90641651f7db5785200028cee8",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "NFLX"
+}

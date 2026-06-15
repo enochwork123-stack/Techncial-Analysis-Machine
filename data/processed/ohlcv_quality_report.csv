@@ -1,0 +1,10 @@
+severity,symbol,date,issue,detail
+warning,AMD,2016-04-22,split_like_return,return=0.5229
+warning,ARM,2024-02-08,split_like_return,return=0.4789
+error,AVGO,2013-11-13,invalid_ohlc,
+error,INTC,2013-01-02,invalid_ohlc,
+error,INTC,2013-02-01,invalid_ohlc,
+error,INTC,2013-03-26,invalid_ohlc,
+error,INTC,2017-04-13,invalid_ohlc,
+warning,NFLX,2013-01-24,extreme_return,return=0.4222
+warning,NFLX,2022-04-20,extreme_return,return=-0.3512

@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:14:57.151798+00:00",
+  "end_date": null,
+  "file_name": "AVGO.csv",
+  "file_size_bytes": 407754,
+  "quality_issue_count": 1,
+  "rows": 4136,
+  "sha256": "e1b4ac25b1eef0b540981781797ca68a77f37132b7b131507062b615ccfe6396",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "AVGO"
+}

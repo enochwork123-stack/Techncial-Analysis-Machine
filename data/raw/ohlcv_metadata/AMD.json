@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:14:58.388598+00:00",
+  "end_date": null,
+  "file_name": "AMD.csv",
+  "file_size_bytes": 391368,
+  "quality_issue_count": 1,
+  "rows": 4136,
+  "sha256": "6a539ce2e7a8eb7b7b66807a7551f4c53908d6d11d73ee6592fd3f5788111221",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "AMD"
+}

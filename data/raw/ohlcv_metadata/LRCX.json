@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:02.506497+00:00",
+  "end_date": null,
+  "file_name": "LRCX.csv",
+  "file_size_bytes": 405012,
+  "quality_issue_count": 0,
+  "rows": 4136,
+  "sha256": "74da04b7160fba04225b5097e69024519cefad98462140d78a28382c82b45fde",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "LRCX"
+}

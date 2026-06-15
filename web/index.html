@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Regime Alpha Lab</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Regime Alpha Lab</h1>
+      <p>Portfolio and strategy research dashboard</p>
+    </div>
+    <button id="refreshSymbols" title="Refresh cached symbols">Refresh</button>
+  </header>
+
+  <main class="layout">
+    <section class="panel controls">
+      <h2>Inputs</h2>
+      <label>
+        Mode
+        <select id="mode">
+          <option value="portfolio">Portfolio</option>
+          <option value="symbol">Single symbol suite</option>
+          <option value="walkForward">Walk-forward</option>
+          <option value="robustness">Robustness report</option>
+        </select>
+      </label>
+
+      <label>
+        Symbols
+        <input id="symbols" placeholder="GOOG, MSFT, NVDA">
+      </label>
+
+      <div class="symbol-list" id="symbolList"></div>
+
+      <label id="strategyWrap">
+        Portfolio strategy
+        <select id="strategy"></select>
+      </label>
+
+      <div class="grid">
+        <label>
+          Execution
+          <select id="executionTiming">
+            <option value="close">Close</option>
+            <option value="next_open">Next open</option>
+          </select>
+        </label>
+        <label>
+          Benchmark
+          <input id="benchmarkSymbol" placeholder="QQQ or GOOG">
+        </label>
+        <label>
+          Initial capital
+          <input id="initialCapital" type="number" value="100000" min="1000" step="1000">
+        </label>
+        <label>
+          Risk/trade
+          <input id="riskPerTrade" type="number" value="0.01" min="0.001" max="1" step="0.001">
+        </label>
+        <label>
+          Max heat
+          <input id="maxHeat" type="number" value="0.20" min="0.01" max="1" step="0.01">
+        </label>
+        <label>
+          Max positions
+          <input id="maxPositions" type="number" value="20" min="1" step="1">
+        </label>
+        <label>
+          Max position %
+          <input id="maxPositionPct" type="number" value="0.20" min="0.01" max="1" step="0.01">
+        </label>
+        <label>
+          Commission %
+          <input id="commissionPct" type="number" value="0.001" min="0" step="0.0001">
+        </label>
+        <label>
+          Slippage %
+          <input id="slippagePct" type="number" value="0.0005" min="0" step="0.0001">
+        </label>
+        <label>
+          Train years
+          <input id="trainYears" type="number" value="4" min="1" step="1">
+        </label>
+        <label>
+          Test years
+          <input id="testYears" type="number" value="1" min="1" step="1">
+        </label>
+      </div>
+
+      <label class="check">
+        <input id="correlationFilter" type="checkbox" checked>
+        Use correlation filter
+      </label>
+
+      <button id="run">Run Backtest</button>
+      <div id="status" class="status"></div>
+    </section>
+
+    <section class="results">
+      <div class="metrics" id="metrics"></div>
+      <div class="panel chart-panel">
+        <div class="panel-head">
+          <h2>TradingView-Style Chart</h2>
+          <div class="legend">
+            <span><i class="swatch equity"></i>Equity</span>
+            <span><i class="swatch benchmark"></i>Benchmark</span>
+            <span><i class="swatch timing"></i>Timing</span>
+          </div>
+        </div>
+        <canvas id="chart" width="1200" height="360"></canvas>
+      </div>
+      <div class="panel">
+        <div class="panel-head">
+          <h2 id="tableTitle">Results</h2>
+          <button id="downloadCsv" title="Download current table">Download CSV</button>
+        </div>
+        <div class="table-wrap">
+          <table id="resultTable"></table>
+        </div>
+      </div>
+      <div class="panel" id="memoPanel">
+        <h2>Research Memos</h2>
+        <div id="memos" class="memos"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="/app.js"></script>
+</body>
+</html>

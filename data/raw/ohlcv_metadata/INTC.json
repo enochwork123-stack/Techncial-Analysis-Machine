@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:05.254553+00:00",
+  "end_date": null,
+  "file_name": "INTC.csv",
+  "file_size_bytes": 408186,
+  "quality_issue_count": 4,
+  "rows": 4136,
+  "sha256": "60f59f5cf499e51123c5934a8a273763e46f4a7e7999578bbe89b956c7ecd5e8",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "INTC"
+}

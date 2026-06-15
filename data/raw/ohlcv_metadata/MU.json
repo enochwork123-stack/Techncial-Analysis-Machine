@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:03.855136+00:00",
+  "end_date": null,
+  "file_name": "MU.csv",
+  "file_size_bytes": 396701,
+  "quality_issue_count": 0,
+  "rows": 4136,
+  "sha256": "292a6ab7a45bbadd90c7e66cfd70462b97e20cb4de0af8fbdbe1e5eeaefeff52",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "MU"
+}

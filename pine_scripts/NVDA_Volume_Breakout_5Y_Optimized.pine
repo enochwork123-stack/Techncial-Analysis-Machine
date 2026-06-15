@@ -1,0 +1,56 @@
+//@version=6
+strategy(
+     title="NVDA 5Y Optimized Volume Breakout Strategy",
+     shorttitle="NVDA 5Y Vol Breakout",
+     overlay=true,
+     initial_capital=100000,
+     default_qty_type=strategy.percent_of_equity,
+     default_qty_value=100,
+     commission_type=strategy.commission.percent,
+     commission_value=0.10,
+     slippage=1
+)
+
+// Optimized from the local Python research framework for NVDA.
+// Best 5-year NVDA result from the tested grid:
+// Volume Breakout, breakout length 10, volume multiplier 1.0, trend EMA 100.
+// Default TradingView costs in this file: 0.10% commission and 1 tick slippage.
+
+startDate = input.time(1623628800000, "Backtest Start")
+endDate = input.time(1781395200000, "Backtest End")
+inDateRange = time >= startDate and time <= endDate
+
+breakoutLen = input.int(10, "Breakout Length", minval=2)
+volumeLen = input.int(20, "Volume SMA Length", minval=1)
+volumeMultiplier = input.float(1.0, "Volume Multiplier", minval=0.1, step=0.1)
+trendLen = input.int(100, "Trend EMA Length", minval=5)
+atrLen = input.int(14, "ATR Length", minval=1)
+atrStopMult = input.float(2.5, "ATR Stop Multiplier", minval=0.1, step=0.1)
+
+trendEma = ta.ema(close, trendLen)
+volumeSma = ta.sma(volume, volumeLen)
+atrValue = ta.atr(atrLen)
+breakoutLevel = ta.highest(high, breakoutLen)[1]
+
+trendOk = close > trendEma and trendEma > trendEma[1]
+volumeOk = volume > volumeSma * volumeMultiplier
+longEntry = inDateRange and close > breakoutLevel and trendOk and volumeOk
+longExit = close < trendEma or not inDateRange
+
+if longEntry
+    strategy.entry("Long", strategy.long)
+
+if longExit
+    strategy.close("Long", comment="Trend Exit")
+
+if strategy.position_size > 0
+    stopPrice = close - atrValue * atrStopMult
+    strategy.exit("ATR Stop", from_entry="Long", stop=stopPrice)
+
+plot(trendEma, "Trend EMA", color=color.new(color.orange, 0), linewidth=2)
+plot(breakoutLevel, "Breakout Level", color=color.new(color.teal, 0))
+
+plotshape(longEntry, title="Entry", style=shape.triangleup, location=location.belowbar,
+     color=color.new(color.lime, 0), size=size.small, text="BUY")
+plotshape(longExit, title="Exit", style=shape.triangledown, location=location.abovebar,
+     color=color.new(color.red, 0), size=size.small, text="EXIT")

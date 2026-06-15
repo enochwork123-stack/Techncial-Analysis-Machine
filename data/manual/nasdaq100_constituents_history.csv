@@ -1,0 +1,306 @@
+symbol,start_date,end_date,company_name,exchange,cusip,figi,perm_id,successor_symbol,delisted,delisting_date,source,source_asof,notes
+AAL,2014-12-22,2020-04-19,American Airlines,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+AAPL,2007-02-01,,Apple Inc.,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ABNB,2021-12-20,,Airbnb,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ADBE,2007-02-01,,Adobe Inc.,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ADI,2012-12-24,,Analog Devices,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ADP,2008-12-22,,Automatic Data Processing,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ADSK,2007-02-01,,Autodesk,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+AEOS,2007-02-01,2007-03-07,American Eagle Outfitters,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+AEP,2020-12-21,,American Electric Power,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+AKAM,2007-02-01,2009-12-20,Akamai Technologies,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+AKAM,2010-12-20,2017-12-17,Akamai Technologies,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ALGN,2017-10-23,2023-12-17,Align Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ALNY,2025-12-22,,Alnylam Pharmaceuticals,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ALTR,2007-02-01,2015-10-06,Altera,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ALXN,2011-04-04,2021-07-20,Alexion Pharmaceuticals,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+AMAT,2007-02-01,,Applied Materials,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+AMD,2018-12-24,,Advanced Micro Devices,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+AMGN,2007-02-01,,Amgen,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+AMLN,2007-02-01,2008-12-21,Amylin Pharmaceuticals,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+AMZN,2007-02-01,,Amazon,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ANSS,2019-12-23,2025-07-16,Ansys,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+APCC,2007-02-01,2007-02-13,American Power Conversion,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+APOL,2007-02-01,2012-12-23,Apollo Group,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+APP,2024-11-18,,AppLovin,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ARM,2024-06-24,,Arm Holdings,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ASML,2017-12-18,,ASML Holding,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ATVI,2007-02-01,2023-07-16,Activision Blizzard,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+AVGO,2011-12-19,2015-11-10,Broadcom Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+AVGO,2016-02-01,,Broadcom,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+AXON,2024-12-23,,Axon Enterprise,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+AZN,2022-02-22,2026-01-19,AstraZeneca,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BATRA,2016-04-18,2016-06-19,Liberty Media,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BATRK,2016-04-18,2016-06-19,Liberty Media,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BBBY,2007-02-01,2016-12-18,Bed Bath & Beyond,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BEAS,2007-02-01,2008-04-29,BEA Systems,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BIDU,2007-12-04,2022-12-18,Baidu,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BIIB,2007-02-01,2025-12-21,Biogen,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BKNG,2007-02-01,,Booking Holdings,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+BKR,2022-12-19,,Baker Hughes,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+BMC,2009-12-21,2013-07-24,BMC Software,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BMET,2007-02-01,2007-07-11,Biomet,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+BMRN,2015-07-27,2020-12-20,BioMarin Pharmaceutical,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CA,2008-05-19,2018-11-04,CA Inc.,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CCEP,2023-12-18,,Coca-Cola Europacific Partners,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CDNS,2007-02-01,2008-12-21,Cadence Design Systems,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CDNS,2017-12-18,,Cadence Design Systems,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CDW,2019-12-23,2021-12-19,CDW,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CDW,2023-12-18,2025-12-21,CDW Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CDWC,2007-02-01,2007-10-07,CDW Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CEG,2022-02-02,,Constellation Energy,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CELG,2007-02-01,2019-11-20,Celgene,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CEPH,2007-06-01,2011-07-14,Cephalon,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CERN,2009-07-17,2021-12-19,Cerner,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CHKP,2007-02-01,2021-12-19,Check Point,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CHRW,2007-02-01,2015-12-20,C. H. Robinson Worldwide,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CHTR,2013-07-25,,Charter Communications,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CKFR,2007-02-01,2007-12-03,CheckFree Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CMCSA,2014-12-22,,Comcast,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CMVT,2007-01-31,2007-01-31,Comverse Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Only terminal membership date is known from the earliest available Wikipedia change row; true start date is earlier.
+COST,2007-02-01,,Costco,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CPRT,2019-12-23,,Copart,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CRWD,2021-08-26,,CrowdStrike,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CSCO,2007-02-01,,Cisco,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CSGP,2019-12-23,2020-07-19,CoStar Group,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CSGP,2022-12-19,2026-05-17,CoStar Group,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CSX,2016-02-16,,CSX Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CTAS,2007-02-01,2010-12-19,Cintas,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CTAS,2016-12-19,,Cintas,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CTRX,2012-12-24,2015-07-23,Catamaran Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+CTSH,2007-02-01,,Cognizant,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+CTXS,2007-02-01,2020-12-20,Citrix Systems,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DASH,2023-12-18,,DoorDash,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+DDOG,2021-12-20,,Datadog,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+DELL,2007-02-01,2013-10-28,Dell,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DISCA,2007-02-01,2008-12-21,Discovery Communications Class A,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DISCA,2012-12-24,2017-12-17,Discovery Communications Series A,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DISCK,2007-02-01,2017-12-17,Discovery Communications Series C,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DISH,2007-02-01,2010-12-19,Dish Network,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DISH,2013-12-23,2018-07-22,Dish Network,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DLTR,2010-12-20,2024-11-17,Dollar Tree,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DOCU,2020-06-22,2022-12-18,DocuSign,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DTV,2008-04-30,2015-07-23,DirecTV,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+DXCM,2020-04-20,,DexCom,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+EA,2007-02-01,2012-12-23,Electronic Arts,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+EA,2014-12-22,,Electronic Arts,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+EBAY,2007-02-01,2023-12-17,EBay,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ENDP,2015-12-21,2016-07-17,Endo International,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ENPH,2022-11-21,2023-12-17,Enphase Energy,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+EQIX,2012-12-24,2015-03-22,Equinix,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ERIC,2007-02-01,2007-12-23,LM Ericsson,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ESRX,2007-02-01,2018-12-23,Express Scripts,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+EXC,2019-11-21,,Exelon,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+EXPD,2007-02-01,2015-12-20,Expeditors International,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+EXPE,2007-02-01,2014-12-21,Expedia Group,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+EXPE,2015-12-21,2020-12-20,Expedia,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FANG,2022-12-19,,Diamondback Energy,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+FAST,2007-02-01,,Fastenal,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+FER,2025-12-22,,Ferrovial,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+FFIV,2010-12-20,2014-12-21,F5 Networks,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FI,2007-02-01,2023-06-06,Fiserv,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FLEX,2007-02-01,2012-12-23,Flextronics,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FLIR,2008-07-21,2011-12-18,FLIR Systems,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FMCN,2007-12-24,2009-01-19,Focus Media Holding,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FOSL,2011-12-19,2013-12-22,Fossil Group,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FOX,2014-12-22,2019-03-18,21st Century Fox Class B,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FOX,2019-03-19,2021-12-19,Fox Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FOXA,2007-02-01,2019-03-18,21st Century Fox Class A,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FOXA,2019-03-19,2021-12-19,Fox Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FSLR,2008-12-22,2012-04-22,First Solar,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+FTNT,2021-12-20,,Fortinet,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+FWLT,2007-07-12,2010-12-19,Foster Wheeler,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+GEHC,2023-06-07,,GE HealthCare,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+GENZ,2007-02-01,2011-04-03,Genzyme,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+GFS,2022-12-19,2025-12-21,GlobalFoundries,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+GILD,2007-02-01,,Gilead Sciences,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+GMCR,2011-05-27,2012-12-23,Green Mountain Coffee Roasters,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+GMCR,2013-08-22,2015-12-20,Keurig Green Mountain,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+GOLD,2011-12-19,2013-11-17,Randgold Resources,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+GOOG,2014-04-03,,Alphabet Inc. (Class C),NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+GOOGL,2007-02-01,,Alphabet Inc. (Class A),NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+GRMN,2007-02-01,2015-12-20,Garmin,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+HANS,2007-12-24,2009-12-20,Hansen Natural,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+HAS,2016-12-19,2019-12-22,Hasbro,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+HOLX,2007-12-24,2010-12-19,Hologic,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+HOLX,2016-12-19,2018-12-23,Hologic,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+HON,2021-07-21,,Honeywell,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+HSIC,2007-02-01,2019-12-22,Henry Schein,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+IACI,2007-02-01,2009-12-20,IAC/InterActiveCorp,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+IDXX,2017-03-20,,Idexx Laboratories,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ILMN,2008-12-22,2011-12-18,Illumina,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ILMN,2013-12-23,2024-12-22,Ilumina,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+INCY,2015-10-07,2021-12-19,Incyte,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+INFY,2007-02-01,2012-12-11,Infosys,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+INSM,2025-12-22,,Insmed Incorporated,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+INTC,2007-02-01,,Intel,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+INTU,2007-02-01,,Intuit,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ISRG,2007-02-01,,Intuitive Surgical,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+JAVA,2007-02-01,2009-07-16,Sun Microsystems,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+JBHT,2008-12-22,2010-12-19,J. B. Hunt,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+JBHT,2017-02-07,2019-12-22,J.B. Hunt,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+JD,2015-07-29,2023-12-17,JD.com,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+JNPR,2007-02-01,2009-10-28,Juniper Networks,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+JOYG,2007-02-01,2011-12-05,Joy Global,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+KDP,2020-10-19,,Keurig Dr Pepper,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+KHC,2015-07-02,,Kraft Heinz,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+KLAC,2007-02-01,2016-02-15,KLA-Tencor,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+KLAC,2016-12-19,,KLA Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+KRFT,2013-03-18,2015-07-01,Kraft Foods,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LAMR,2007-02-01,2008-12-21,Lamar Advertising Company,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LBTYA,2007-02-01,2009-12-20,Liberty Global Class A,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LBTYA,2012-12-24,2020-12-20,Liberty Global,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LBTYK,2014-12-22,2020-12-20,Liberty Global,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LCID,2021-12-20,2023-12-17,Lucid Group,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LEAP,2007-10-08,2008-12-21,Leap Wireless International,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LIFE,2008-12-22,2013-08-21,Life Technologies,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LILA,2015-07-02,2015-12-20,Liberty Latin America Class A,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LILAK,2015-07-02,2015-12-20,Liberty Latin America Class C,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LIN,2024-03-18,,Linde plc,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+LITE,2026-05-18,,Lumentum,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+LLTC,2007-02-01,2016-10-18,Linear Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LMCA,2012-12-24,2013-01-14,Liberty Media,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LMCA,2013-06-05,2016-06-19,Liberty Media,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LMCK,2007-02-01,2016-06-19,Liberty Media,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LOGI,2007-02-01,2010-12-19,Logitech,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LRCX,2007-02-01,2012-12-23,Lam Research,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LRCX,2014-12-22,,Lam Research,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+LULU,2018-12-24,2025-12-21,Lululemon Athletica,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+LVLT,2007-02-01,2008-12-21,Level 3 Communications,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MAR,2013-11-18,,Marriott International,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MAT,2009-12-21,2017-10-22,Mattel,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MCHP,2007-02-01,2013-12-22,Microchip Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MCHP,2016-07-18,,Microchip Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MDB,2023-12-18,2025-05-18,MongoDB,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MDLZ,2007-02-01,,Mondelez International,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MEDI,2007-02-01,2007-05-31,MedImmune,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MELI,2017-06-19,,Mercado Libre,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+META,2012-12-12,,Meta Platforms,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MICC,2007-02-01,2011-05-26,Millicom International Cellular,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MNST,2007-02-01,2008-11-09,Monster Worldwide,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MNST,2011-12-19,,Monster Beverage,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MPWR,2025-12-22,,Monolithic Power Systems,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MRNA,2020-07-20,2024-12-22,Moderna,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MRVL,2007-02-01,2012-12-23,Marvell Technology Group,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MRVL,2020-12-21,,Marvell Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MSFT,2007-02-01,,Microsoft,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MSTR,2024-12-23,,MicroStrategy,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MTCH,2020-12-21,2022-12-18,Match Group,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MU,2010-12-20,,Micron Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+MXIM,2008-12-22,2014-12-21,Maxim Integrated Products,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MXIM,2015-12-21,2021-08-25,Maxim Integrated Products,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+MYL,2009-12-21,2019-12-22,Mylan,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NCLH,2015-12-21,2017-12-17,Norwegian Cruise Line Holdings,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NFLX,2010-12-20,2012-12-23,Netflix,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NFLX,2013-06-06,,"Netflix, Inc.",NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+NIHD,2007-02-01,2011-12-18,NII Holdings,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NLOK,2007-02-01,2019-12-22,NortonLifeLock,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NLTI,2007-02-01,2007-08-26,NTL Incorporated,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NTAP,2007-02-01,2016-12-18,NetApp,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NTAP,2018-12-24,2020-08-23,NetApp,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NTES,2016-03-16,2022-12-18,NetEase,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NUAN,2011-12-19,2013-12-22,Nuance Communications,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NVDA,2007-02-01,,Nvidia,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+NXPI,2013-12-23,2017-02-06,NXP Semiconductors,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+NXPI,2018-11-05,,NXP Semiconductors,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ODFL,2022-01-24,,Old Dominion Freight Line,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+OKTA,2020-12-21,2022-11-20,Okta,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ON,2023-06-20,2025-12-21,ON Semiconductor,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ORCL,2007-02-01,2013-07-14,Oracle,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ORLY,2008-12-22,,O'Reilly Automotive,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+PANW,2021-12-20,,Palo Alto Networks,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+PAYX,2007-02-01,,Paychex,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+PCAR,2007-02-01,,Paccar,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+PDCO,2007-02-01,2010-12-19,Patterson Companies,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+PDD,2020-08-24,,PDD Holdings,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+PEP,2018-07-23,,PepsiCo,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+PETM,2007-02-01,2008-12-21,PetSmart,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+PLTR,2024-12-23,,Palantir Technologies,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+PPDI,2008-12-22,2009-12-20,Pharmaceutical Product Development,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+PRGO,2011-12-06,2013-06-05,Perrigo,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+PTEN,2007-02-01,2007-12-23,Patterson-UTI Energy,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+PTON,2020-12-21,2022-01-23,Peloton,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+PYPL,2015-11-11,,PayPal,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+QCOM,2007-02-01,,Qualcomm,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+QGEN,2009-12-21,2011-12-18,Qiagen,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+QRTEA,2007-02-01,2018-12-23,Qurate Retail,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+REGN,2012-12-24,,Regeneron Pharmaceuticals,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+RIMM,2007-02-01,2012-12-23,Research in Motion,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+RIVN,2022-12-19,2023-06-19,Rivian Automotive,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ROP,2023-12-18,,Roper Technologies,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+ROST,2007-02-01,2007-12-23,Ross Stores,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ROST,2008-12-22,,Ross Stores,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+RYAAY,2007-02-14,2009-12-20,Ryanair,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SBAC,2012-12-24,2017-03-19,SBA Communications,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SBUX,2007-02-01,,Starbucks,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+SEPR,2007-02-01,2007-12-23,Sepracor,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SGEN,2019-12-23,2023-12-13,Seagen Inc.,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SHLD,2007-02-01,2013-12-22,Sears Holdings,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SHOP,2025-05-19,,Shopify,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+SHPG,2016-10-19,2018-12-23,Shire PLC,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SIAL,2007-02-01,2015-07-30,Sigma-Aldrich,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SIRI,2007-02-01,2008-12-21,Sirius XM Radio,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SIRI,2011-07-15,2024-06-23,Sirius XM,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SMCI,2024-07-22,2024-12-22,Supermicro,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SNDK,2007-02-01,2008-12-21,SanDisk,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SNDK,2009-12-21,2016-03-15,SanDisk,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SNDK,2026-04-20,,Sandisk,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+SNPS,2017-12-18,,Synopsys,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+SOLS,2025-10-30,2025-11-05,Solstice Advanced Materials,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SPLK,2019-12-23,2022-12-18,Splunk,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SPLK,2023-12-18,2024-03-17,Splunk,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SPLS,2007-02-01,2015-12-20,Staples,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+SRCL,2007-12-24,2016-12-18,Stericycle,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+STLD,2007-12-24,2009-12-20,Steel Dynamics,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+STRZA,2013-01-15,2013-03-17,Starz,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+STX,2008-11-10,2018-12-23,Seagate Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+STX,2025-12-22,,Seagate Technology,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+SWKS,2015-08-03,2022-12-18,Skyworks,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TCOM,2010-12-20,2012-07-22,Ctrip,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TCOM,2015-12-21,2021-12-19,Trip.com,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TEAM,2020-12-21,2026-04-19,Atlassian,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TEVA,2007-02-01,2012-05-29,Teva Pharmaceutical Industries,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TLAB,2007-02-01,2008-05-18,Tellabs,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TMUS,2015-12-21,,T-Mobile US,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+TRI,2025-07-28,,Thomson Reuters,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+TRIP,2013-12-23,2017-04-23,TripAdvisor,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TSCO,2013-12-23,2017-12-17,Tractor Supply,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TSLA,2013-07-15,,"Tesla, Inc.",NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+TTD,2023-07-17,2025-12-21,Trade Desk (The),NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TTWO,2017-12-18,2020-12-20,Take-Two Interactive,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+TTWO,2023-12-14,,Take-Two Interactive,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+TXN,2012-04-23,,Texas Instruments,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+UAL,2018-12-24,2020-06-21,United Airlines Holdings,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+UAUA,2007-03-08,2008-07-20,UAL Corporation,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ULTA,2015-12-21,2020-12-20,Ulta Beauty,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+URBN,2008-12-22,2011-12-18,Urban Outfitters,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+VIAB,2012-05-30,2017-12-17,Viacom,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+VIP,2013-10-29,2015-12-20,VimpelCom,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+VMED,2007-08-27,2008-12-21,Virgin Media,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+VMED,2009-12-21,2013-06-04,Virgin Media,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+VOD,2009-12-21,2018-12-23,Vodafone,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+VRSK,2012-12-24,,Verisk Analytics,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+VRSN,2007-02-01,2012-12-23,VeriSign,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+VRSN,2018-12-24,2022-12-18,VeriSign,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+VRTX,2007-02-01,,Vertex Pharmaceuticals,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+VSNT,2026-01-05,2026-01-08,Versant,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+WBA,2015-03-23,2024-07-21,Walgreens Boots Alliance,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+WBD,2022-12-19,,Warner Bros. Discovery,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+WCRX,2008-12-22,2012-12-23,Warner Chilcott,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+WDAY,2017-12-18,,"Workday, Inc.",NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+WDC,2012-12-24,2020-10-18,Western Digital,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+WDC,2025-12-22,,Western Digital,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+WFM,2010-12-20,2016-12-18,Whole Foods Market,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+WFMI,2007-02-01,2008-12-21,Whole Foods Market,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+WMT,2026-01-20,,Walmart,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+WTW,2018-12-24,2020-04-29,Willis Towers Watson,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+WYNN,2007-02-01,2015-12-20,Wynn Resorts,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+WYNN,2017-04-24,2019-12-22,Wynn Resorts,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+XEL,2018-11-19,,Xcel Energy,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.
+XLNX,2007-02-01,2022-02-21,Xilinx,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+XMSR,2007-02-01,2007-12-23,XM Satellite Radio,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+XRAY,2007-02-01,2013-12-22,Dentsply,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+XRAY,2016-06-20,2018-11-18,Dentsply Sirona,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+YHOO,2007-02-01,2017-06-18,Yahoo! Inc.,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ZM,2020-04-30,2023-12-17,Zoom Video Communications,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Removed component reconstructed backward from Wikipedia change history.
+ZS,2021-12-20,,Zscaler,NASDAQ,,,,,False,,wikipedia_nasdaq100_component_changes_reconstruction,2026-06-14,Current component; start date inferred from Wikipedia change history when available.

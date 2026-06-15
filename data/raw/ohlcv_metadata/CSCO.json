@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:13.160174+00:00",
+  "end_date": null,
+  "file_name": "CSCO.csv",
+  "file_size_bytes": 408021,
+  "quality_issue_count": 2,
+  "rows": 4136,
+  "sha256": "f49dfc706337749c64640234ccb98445e67f99baac0905ee0d52e1fac17ed477",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "CSCO"
+}

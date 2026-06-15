@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:06.569988+00:00",
+  "end_date": null,
+  "file_name": "TSLA.csv",
+  "file_size_bytes": 392273,
+  "quality_issue_count": 0,
+  "rows": 4014,
+  "sha256": "ef8e76f6d2e2e6948411d876f2bc9bb22d88bffb4823f4f0d51e90e78ca1da9f",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "TSLA"
+}

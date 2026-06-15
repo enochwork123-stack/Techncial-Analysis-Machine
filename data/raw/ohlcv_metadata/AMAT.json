@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:01.139471+00:00",
+  "end_date": null,
+  "file_name": "AMAT.csv",
+  "file_size_bytes": 406349,
+  "quality_issue_count": 0,
+  "rows": 4136,
+  "sha256": "b700abad50c62b3e7051cacf8b8a70e934c2733331bfbf9025a78cdd7892b561",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "AMAT"
+}

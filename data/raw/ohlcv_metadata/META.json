@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:14:54.334565+00:00",
+  "end_date": null,
+  "file_name": "META.csv",
+  "file_size_bytes": 347595,
+  "quality_issue_count": 0,
+  "rows": 3537,
+  "sha256": "93cc7dcf86269a2b56bae00b1e0e7c650e557aab63781e92d880d0d763801162",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "META"
+}

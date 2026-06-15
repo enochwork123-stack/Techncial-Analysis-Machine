@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:14:50.334472+00:00",
+  "end_date": null,
+  "file_name": "AAPL.csv",
+  "file_size_bytes": 411916,
+  "quality_issue_count": 0,
+  "rows": 4136,
+  "sha256": "85d3e4b8c6b39ea4a7841f439236c458fcdefb1e247f6037ae19bd905b725ca9",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "AAPL"
+}

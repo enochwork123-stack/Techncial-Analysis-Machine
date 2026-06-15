@@ -1,0 +1,57 @@
+//@version=6
+strategy(
+     title="GOOG 5Y Optimized EMA 15/60 Trend Strategy",
+     shorttitle="GOOG 5Y EMA 15/60",
+     overlay=true,
+     initial_capital=100000,
+     default_qty_type=strategy.percent_of_equity,
+     default_qty_value=100,
+     commission_type=strategy.commission.percent,
+     commission_value=0.10,
+     slippage=1
+)
+
+// Optimized from the local Python research framework for GOOG.
+// Best 5-year GOOG result from the tested strategy grid:
+// EMA Cross, fast EMA 15, slow EMA 60.
+// Default TradingView costs in this file: 0.10% commission and 1 tick slippage.
+
+startDate = input.time(1623628800000, "Backtest Start")
+endDate = input.time(1781395200000, "Backtest End")
+inDateRange = time >= startDate and time <= endDate
+
+fastLen = input.int(15, "Fast EMA Length", minval=1)
+slowLen = input.int(60, "Slow EMA Length", minval=2)
+useTrendFilter = input.bool(false, "Use 200 EMA Trend Filter")
+trendLen = input.int(200, "Trend EMA Length", minval=20)
+useAtrStop = input.bool(false, "Use ATR Stop")
+atrLen = input.int(14, "ATR Length", minval=1)
+atrMult = input.float(3.0, "ATR Stop Multiplier", minval=0.1, step=0.1)
+
+fastEma = ta.ema(close, fastLen)
+slowEma = ta.ema(close, slowLen)
+trendEma = ta.ema(close, trendLen)
+atrValue = ta.atr(atrLen)
+
+trendOk = not useTrendFilter or close > trendEma
+longEntry = inDateRange and ta.crossover(fastEma, slowEma) and trendOk
+longExit = ta.crossunder(fastEma, slowEma) or not inDateRange
+
+if longEntry
+    strategy.entry("Long", strategy.long)
+
+if longExit
+    strategy.close("Long", comment="EMA Exit")
+
+if useAtrStop and strategy.position_size > 0
+    stopPrice = strategy.position_avg_price - atrValue * atrMult
+    strategy.exit("ATR Stop", from_entry="Long", stop=stopPrice)
+
+plot(fastEma, "Fast EMA", color=color.new(color.teal, 0), linewidth=2)
+plot(slowEma, "Slow EMA", color=color.new(color.orange, 0), linewidth=2)
+plot(useTrendFilter ? trendEma : na, "Trend EMA", color=color.new(color.gray, 20))
+
+plotshape(longEntry, title="Entry", style=shape.triangleup, location=location.belowbar,
+     color=color.new(color.lime, 0), size=size.small, text="BUY")
+plotshape(longExit, title="Exit", style=shape.triangledown, location=location.abovebar,
+     color=color.new(color.red, 0), size=size.small, text="EXIT")

@@ -1,0 +1,13 @@
+{
+  "adjustment": "auto_adjust",
+  "downloaded_at_utc": "2026-06-14T03:15:10.301016+00:00",
+  "end_date": null,
+  "file_name": "COST.csv",
+  "file_size_bytes": 400944,
+  "quality_issue_count": 0,
+  "rows": 4136,
+  "sha256": "8358f86cd38533bcdac66f6f9f09483d439fd00116ee0c7f5aa82d1c78a354a6",
+  "source": "yfinance",
+  "start_date": "2010-01-01",
+  "symbol": "COST"
+}
